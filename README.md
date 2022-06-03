@@ -1,4 +1,5 @@
-COMP3005 Final Project  
+# COMP3005FinalProject
+-- QT Creator --
 
 Blair Hawke
 100993006
@@ -17,4 +18,4 @@ All buttons are set up but I was unable to set up the database.
 
 In the end I wish I had more time to implement functionality but I was under heavy time constaints for this project.
 
-# COMP3005FinalProject
+
