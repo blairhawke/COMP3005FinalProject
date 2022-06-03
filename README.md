@@ -1,8 +1,7 @@
 # COMP3005FinalProject
 -- QT Creator --
 
-Blair Hawke
-100993006
+Blair Hawke - 100993006
 
 Solo group project
 
